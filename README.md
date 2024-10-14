@@ -186,8 +186,6 @@ Choosing between Agile and Waterfall depends on factors such as the project's co
 
 
 
-
-
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 
 
